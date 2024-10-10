@@ -1,0 +1,24 @@
+{
+    "Cabine": {
+        "Controles da nave": false,
+        "Ligar/Desligar": false,
+        "Abrir porta": false,
+        "Energia de motores": false,
+        "Virar nave": false,
+        "Acelerar/desacelerar": false,
+        "Armas": "(3 armas diferentes)",
+        "Navegadores": "(GPS, sensores)",
+        "Controle de portas da nave": false,
+        "Controle de escudo": false,
+
+        "Banco do piloto": {
+            "Modo Pilotagem automática ou Standby": "(Aproximar ou distanciar dos paineis e controles)"
+        }
+    },
+    
+    "Fuselagem": false,
+
+    "Módulo de descanso": false,
+
+    "Módulo de motores": false
+}
