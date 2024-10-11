@@ -20,5 +20,46 @@
 
     "Módulo de descanso": false,
 
-    "Módulo de motores": false
+    "Módulo de motores": false,
+
+    "Reator de Energia": "Quanto mais potente, maior a quantidade de energia e massa",
+
+    "Motor de Dobra": "Responsável por fazer dobras no espaço-tempo e viajar para locais distantes",
+
+    "Gerador de Escudo": false,
+
+    "Motores de velocidade": "Responsável por acelerar e desaceletar a nave",
+
+    "Propulsores": "Responsáveis por manobrar a nave utilizando jatos de ar",
+
+    "Bomba de ar": "Responsável por armazenar ar para os propulsores",
+
+    "Bomba de oxigênio": "Responsável por gerar Oxigênio para toda a nave",
+
+    "Gerador de Oxigênio": "Responsável por produzir oxigênio para as bombas de Oxigênio",
+
+    "Módulo de gravidade": "Responsável por gerenciar a gravidade da nave",
+
+    "Servidores": {
+        "Sistemas operacionais": "Responsável por interligar todos os sistemas da nave aos computadores e softwares",
+
+        "IA": {
+            "Controles da nave por voz": false,
+            "Checagem de sistemas da nave": false
+        },
+
+        "Comunicações": "Responsável por fazer comunicação através de rádio"
+    },
+
+    "Antenas": {
+        "Comunicação": "Responsável por transmitir comunicações",
+        "GPS": "Responsável pela localização"
+    },
+
+    "Trem de pouso":{
+        "Ativar/desativar": false,
+        "description": "Responsável pela força de decolagem da nave, baseando no peso"
+    },
+
+    "Compartimento de carga": "Responsável por armazenar toda a carga da nave"
 }
