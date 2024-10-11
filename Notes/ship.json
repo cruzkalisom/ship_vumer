@@ -61,5 +61,16 @@
         "description": "Responsável pela força de decolagem da nave, baseando no peso"
     },
 
-    "Compartimento de carga": "Responsável por armazenar toda a carga da nave"
+    "Compartimento de carga": "Responsável por armazenar toda a carga da nave",
+
+    "Tanques de combustível":{
+        "Aceleração": "Responsável por alimentar os motores de velocidade",
+        "Decolagem": "Responsável por alimentar o Trem de pouso",
+        "Dobra": "Responsável por aliemntar o Motor de Dobra"
+    },
+
+    "Doca de aterrissagem": "Porta capaz de armazenar veículos e a porta principal de saída",
+    "Garagem": "Local para estacionar mini naves",
+
+    "Acoplador": "Escotilha para acoplar com outras naves ou estações"
 }
