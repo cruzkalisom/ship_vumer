@@ -6,7 +6,7 @@ const BodyParser = require('body-parser')
 const ejs = require('ejs')
 
 const initSocket = require('./modules/sockets/sockets')
-const general = require('./modules/general')
+const general = require('./routes/general')
 
 const app = express()
 
